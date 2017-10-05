@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="btn_check">Comproba</string>
+    <string name="finish">Acaba</string>
+    <string name="label_question">Pregunta</string>
+    <string name="next">Següent</string>
+    <string name="previous">Anterior</string>
+    <string name="results">Resultats</string>
+    <string name="start_over">Torna a començar</string>
+</resources>

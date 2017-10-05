@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name" translatable="false">MultiQuiz Pro</string>
+    <string name="btn_check" >Check</string>
+    <string name="label_question" >Question</string>
+
+
+    <string name="next">Next</string>
+    <string name="finish">Finish</string>
+    <string name="previous">Previous</string>
+    <string name="results">Results</string>
+    <string name="start_over">Start over</string>
+
+    <array name="all_questions">
+        <item>Which is the capital of Buthan?;Ouagadogou;Phnom Penh;*Thimphu;Zgighiti</item>
+        <item>Which is the capital of United Kingdom?;Barcelona;*London;Roma;Paris</item>
+        <item>Which is the capital of Island?;Oslo;Lisboa;Helsinki;*Reikiavik</item>
+    </array>
+</resources>
